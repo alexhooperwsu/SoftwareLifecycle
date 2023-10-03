@@ -4,4 +4,8 @@ Wonderful!
 
 
 A direct change.
+
 An indirect change.
+
+Yet another direct change.
+
